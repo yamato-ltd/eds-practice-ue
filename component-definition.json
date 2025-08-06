@@ -182,6 +182,8 @@
               "page": {
                 "resourceType": "core/franklin/components/block/v1/block",
                 "template": {
+                  "name": "Carousel",
+                  "model": "carousel",
                   "image": "/adobe/dynamicmedia/deliver/dm-aid--565847be-7086-4852-baa7-0c6c828c2cd3/headless-is-here.png?quality=85&width=1280&preferwebp=true",
                   "title": "<h3>Carousel</h3>",
                   "text": "<p>Carousel example</p>"
