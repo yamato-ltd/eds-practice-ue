@@ -215,7 +215,7 @@
       }
     ]
   },
-{
+  {
     "id": "quote",
     "fields": [
         {
@@ -253,6 +253,32 @@
             "value": "bg-blue"
           }
         ]
+      }
+    ]
+  },
+    {
+    "id": "carousel",
+    "fields": [
+      {
+        "component": "reference",
+        "name": "image",
+        "value": "",
+        "label": "image",
+        "valueType": "string"
+      },
+      {
+        "component": "title",
+        "valueType": "string",
+        "name": "title",
+        "label": "Title",
+        "value": ""
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "text",
+        "label": "Text",
+        "value": ""
       }
     ]
   }
